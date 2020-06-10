@@ -11,11 +11,12 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="/home/m98194/Oracle/Middleware/Oracle_Home/wlserver/server/lib/weblogic.jar"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7">
 		<attributes>
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="lib" path="/home/m98194/Oracle/Middleware/Oracle_Home/wlserver/server/lib/weblogic.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
